@@ -11,3 +11,8 @@
 ## 0.0.2
 ### Update README
 - Fix image not showing
+
+## 0.0.3
+### Update README
+- Fix image not showing(again)
+- Add VSCODE Extension Development Snippets Release link in README.md file
