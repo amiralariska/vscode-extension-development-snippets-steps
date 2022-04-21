@@ -1,0 +1,21 @@
+{
+    "name": "amiral-ariska-theme-pro",
+    "displayName": "Amiral Ariska Theme Pro",
+    "description": "Offical Amiral Ariska Theme Pro",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Amiral Ariska Pro Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/amiral-ariska-pro-color-theme.json"
+            }
+        ]
+    }
+}
