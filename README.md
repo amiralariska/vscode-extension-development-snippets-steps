@@ -14,12 +14,16 @@
 
 ### How to Add Configuration on launch.json file
 1. Open .vscode folder and then open launch.json file
-[![VSCODE Snippets Tutorial](https://i.postimg.cc/155bVM7B/vscode-snippets-tutorial.gif)](https://postimg.cc/dDp5zRYZ)
+[![VSCODE Snippets Tutorial](https://www.linkpicture.com/q/vscode-snippets-tutorial.gif)](https://www.linkpicture.com/q/vscode-snippets-tutorial.gif)
 2. Click "Add Configuration"
-[![VSCODE Snippets Tutorial 2](https://i.postimg.cc/kXGqPnC7/vscode-snippets-tutorial-2.gif)](https://postimg.cc/t7KLhG7c)
+[![VSCODE Snippets Tutorial 2](https://www.linkpicture.com/q/vscode-snippets-tutorial-2.gif)](https://www.linkpicture.com/q/vscode-snippets-tutorial-2.gif)
 3. press up arrow on your keyboard until you see `VS CODE Extension Development(Launch Extension)` and then press enter
-[![VSCODE Snippets Tutorial3](https://i.postimg.cc/ncr24W4d/vscode-snippets-tutorial-3.gif)](https://postimg.cc/LndjRN0f)
+[![VSCODE Snippets Tutorial 3](https://www.linkpicture.com/q/vscode-snippets-tutorial-3.gif)](https://www.linkpicture.com/q/vscode-snippets-tutorial-3.gif)
 4. and now your launch.json code snippets has been created
 > Note: If you want to add configuration on launch.json file just follow this steps☝
+
+For more information About VSCODE Extension Development Snippets Release<br>
+Click link down below<br>
+[VSCODE Extension Development Snippets Tips](https://github.com/amiralariska/vscode-extension-development-snippets-release/blob/vscode-extension-development-snippets-release/vscode-extension-development-snippets-tips.md)
 
 **Enjoy**
