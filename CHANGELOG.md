@@ -16,3 +16,9 @@
 ### Update README
 - Fix image not showing(again)
 - Add VSCODE Extension Development Snippets Release link in README.md file
+
+### Update VSCODE Code Snippets
+- VSCODE Code Snippets Updates: rename file format and espace ${workspaceFolder}
+- VSCODE Code Snippets Updates: change path file format in package.json
+- VSCODE Code Snippets Updates: rename a file
+- VSCODE Code Snippets Updates: change path file in package.json
