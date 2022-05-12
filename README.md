@@ -22,8 +22,4 @@
 4. and now your launch.json code snippets has been created
 > Note: If you want to add configuration on launch.json file just follow this steps☝
 
-For more information About VSCODE Extension Development Snippets Release<br>
-Click link down below<br>
-[VSCODE Extension Development Snippets Release](https://github.com/amiralariska/vscode-extension-development-snippets-release)
-
 **Enjoy**
