@@ -18,7 +18,7 @@
 2. Click "Add Configuration"
 [![VSCODE Snippets Tutorial 2](https://xp.io/storage/bZxMNLR.gif)](https://xp.io/storage/bZxMNLR.gif)
 3. press up arrow on your keyboard until you see `VS CODE Extension Development(Launch Extension)` and then press enter
-[![VSCODE Snippets Tutorial 3](https://xp.io/storage/bZIgz6I.gif)](https://xp.io/storage/bZIgz6I.gif)
+[![VSCODE Snippets Tutorial 3](https://xp.io/storage/Fob7AyT.gif)](https://xp.io/storage/Fob7AyT.gif)
 4. and now your launch.json code snippets has been created
 > Note: If you want to add configuration on launch.json file just follow this steps☝
 
