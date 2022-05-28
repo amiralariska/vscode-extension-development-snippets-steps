@@ -14,9 +14,9 @@
 
 ### How to Add Configuration on launch.json file
 1. Open .vscode folder and then open launch.json file
-[![VSCODE Snippets Tutorial](https://xp.io/storage/bZmJefg.gif)](https://xp.io/storage/bZmJefg.gif)
+[![VSCODE Snippets Tutorial](https://xp.io/storage/FBjwOqy.gif)](https://xp.io/storage/FBjwOqy.gif)
 2. Click "Add Configuration"
-[![VSCODE Snippets Tutorial 2](https://xp.io/storage/bZxMNLR.gif)](https://xp.io/storage/bZxMNLR.gif)
+[![VSCODE Snippets Tutorial 2](https://xp.io/storage/FBgChRx.gif)](https://xp.io/storage/FBgChRx.gif)
 3. press up arrow on your keyboard until you see `VS CODE Extension Development(Launch Extension)` and then press enter
 [![VSCODE Snippets Tutorial 3](https://xp.io/storage/Fob7AyT.gif)](https://xp.io/storage/Fob7AyT.gif)
 4. and now your launch.json code snippets has been created
