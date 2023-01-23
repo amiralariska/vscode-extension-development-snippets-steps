@@ -21,3 +21,10 @@
 
 ### LICENSE
 - Create License
+
+## 0.0.3
+### Update README
+- README Updates: Update VSCODE Snippets Tutorial
+
+### VSCODE Snippets
+- Update VSCODE Snippets
