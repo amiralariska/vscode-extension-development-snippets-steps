@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.postimg.cc/3x09spzy/vscode-extension-development-snippets-logo.jpg" alt="VSCODE Logo">
+    <img src="https://xp.io/storage/1fqtjUdy.jpg" alt="VSCODE Logo">
     <h1 align="center">VS CODE Extension Development Snippets Version For VSCODE</h1>
     <p align="center">The History Version Of VS CODE Extension Development Snippets</p>
 </p>
@@ -7,3 +7,17 @@
 ## 0.0.1
 ### Release
 - VS CODE Extension Development Snippets Released
+
+## 0.0.2
+### Update README
+- README Updates: Update VSCODE Snippets Tutorial
+- README Updates: Update VSCODE Snippets Logo Preview
+
+### VSCODE Compatibility
+- Change vscode compatibility
+
+### Update Gallery Banner
+- Update text theme
+
+### LICENSE
+- Create License
