@@ -28,3 +28,7 @@
 
 ### VSCODE Snippets
 - Update VSCODE Snippets
+
+## 0.0.4
+### Update VSCODE Extension
+- Update VSCODE keywords extensions
